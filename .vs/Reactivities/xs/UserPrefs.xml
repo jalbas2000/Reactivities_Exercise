@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{B927EA20-9173-4137-B2F6-86E5D1FAE156}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Startup.cs">
     <Files>
-      <File FileName=".gitignore" Line="1" Column="1" />
+      <File FileName="API/Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Reactivities" expanded="True">
-            <Node name="Solution Items" expanded="True" selected="True" />
+            <Node name="API" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
