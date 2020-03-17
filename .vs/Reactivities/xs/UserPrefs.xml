@@ -3,11 +3,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Reactivities" expanded="True">
-            <Node name="API" expanded="True">
-              <Node name="Startup.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="Reactivities" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
