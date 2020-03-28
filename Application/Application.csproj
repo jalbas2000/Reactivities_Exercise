@@ -16,5 +16,6 @@
   <ItemGroup>
     <Folder Include="Interfaces\" />
     <Folder Include="Activities\" />
+    <Folder Include="Errors\" />
   </ItemGroup>
 </Project>

@@ -1,10 +1,29 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{B927EA20-9173-4137-B2F6-86E5D1FAE156}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Application/Activities/Edit.cs">
+    <Files>
+      <File FileName="Application/Activities/Delete.cs" Line="32" Column="102" />
+      <File FileName="Application/Activities/Details.cs" Line="33" Column="102" />
+      <File FileName="Application/Activities/Edit.cs" Line="50" Column="102" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Reactivities" expanded="True" selected="True" />
+          <Node name="Reactivities" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Middleware" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Application" expanded="True">
+              <Node name="Activities" expanded="True">
+                <Node name="Edit.cs" selected="True" />
+              </Node>
+              <Node name="Errors" expanded="True" />
+            </Node>
+          </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
