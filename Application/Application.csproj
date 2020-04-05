@@ -17,5 +17,7 @@
     <Folder Include="Interfaces\" />
     <Folder Include="Activities\" />
     <Folder Include="Errors\" />
+    <Folder Include="User\" />
+    <Folder Include="Validators\" />
   </ItemGroup>
 </Project>
