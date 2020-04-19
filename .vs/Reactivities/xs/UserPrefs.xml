@@ -3,7 +3,18 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Reactivities" expanded="True" />
+          <Node name="Reactivities" expanded="True">
+            <Node name="API" expanded="True" />
+            <Node name="Application" expanded="True">
+              <Node name="Activities" expanded="True">
+                <Node name="ActivityDto.cs" selected="True" />
+              </Node>
+              <Node name="User" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Photos" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

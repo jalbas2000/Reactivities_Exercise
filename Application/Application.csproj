@@ -19,5 +19,7 @@
     <Folder Include="Errors\" />
     <Folder Include="User\" />
     <Folder Include="Validators\" />
+    <Folder Include="Photos\" />
+    <Folder Include="Profiles\" />
   </ItemGroup>
 </Project>
